@@ -4,7 +4,7 @@
 An innovative IoT-based smart waste management system developed as part of a smart city initiative. This smart bin helps municipal authorities optimize garbage collection routes by monitoring bin levels and environmental conditions in real time.
 
 #Project Appreciation
-![project appreciation](https://github.com/user-attachments/assets/1c113986-fb68-456b-9396-13795a688e70)
+![project appreciation](https://github.com/user-attachments/assets/50e67d59-a31d-4c72-b372-3f5cbaa4684f)
 
 ## 🚀 Overview
 
