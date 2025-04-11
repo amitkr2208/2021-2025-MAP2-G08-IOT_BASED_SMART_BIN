@@ -3,6 +3,9 @@
 
 An innovative IoT-based smart waste management system developed as part of a smart city initiative. This smart bin helps municipal authorities optimize garbage collection routes by monitoring bin levels and environmental conditions in real time.
 
+#Project Appreciation
+![project appreciation](https://github.com/user-attachments/assets/1c113986-fb68-456b-9396-13795a688e70)
+
 ## 🚀 Overview
 
 The smart bin utilizes sensors and visual indicators to monitor waste levels and environmental data. Colored lights (Red, Yellow, Green) alert the public to take action or notify authorities when bins are full.
